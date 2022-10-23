@@ -1,0 +1,9 @@
+[versions]
+kord = "0.8.0-M16"
+
+deftils = "2.0.0"
+okhttp = "4.9.3"
+gson = "2.9.0"
+guava = "31.1-jre"
+
+log4j = "2.19.0"
